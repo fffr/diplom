@@ -1,0 +1,10 @@
+Output: Report Single Pin Nets
+Type  : SinglePinNetReporter
+From  : Variant [[No Variations]] of Project [÷“≈¿4.324.039.PrjPCB]
+   Generated File[÷“≈¿4.324.039_›3_1.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:22:28 On 14.08.2013
